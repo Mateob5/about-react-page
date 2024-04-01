@@ -1,6 +1,6 @@
 # About React Page
 
-This project is part of an intensive preparation for self-strengthening in development using the React Javascript framework
+This project is part of an intensive preparation for self-improvement in development using the React Javascript framework
 
 ## Distribution
 
