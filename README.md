@@ -1,12 +1,13 @@
-# Getting Started with Create React App
+# About React Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is part of an intensive preparation for self-strengthening in development using the React Javascript framework
 
-## Available Scripts
+## Distribution
 
-In the project directory, you can run:
+### `Main.jsx`
 
-### `npm start`
+Contains the main structure of the page
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### `Navbar.jsx`
 
+Contains the structure of the page navigation bar along with the page logo (Paths are not available yet)
